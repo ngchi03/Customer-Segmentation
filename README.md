@@ -6,4 +6,4 @@
 # Contributors
 1. Dao Ngoc Chi - 11219263
 2. Nguyen Phuong Linh -
-3. Ngo Duc Quy - 
+3. Ngo Duc Quy - 11219285
